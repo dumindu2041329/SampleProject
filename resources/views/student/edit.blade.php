@@ -43,7 +43,7 @@
             <label for="exampleInputEmail1" class="form-label">Student Birth Date</label>
             <input type="date" class="form-control" id="exampleInputEmail1" placeholder="Enter Birth Date" name="dob" value="{{$student->dob}}">
         </div>
-        <button type="submit" class="btn btn-primary">Update</button>
+        <button type="submit" class="btn btn-primary">Add</button>
     </form>
 </body>
 
